@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -19,6 +19,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="25CjYiL1GOO32g5cLekpIbfrSo5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +53,7 @@
       <workItem from="1645125277049" duration="752000" />
       <workItem from="1645185865431" duration="88000" />
       <workItem from="1645185960439" duration="1064000" />
+      <workItem from="1645200925340" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="t">
       <created>1645124326778</created>
